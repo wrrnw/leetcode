@@ -13,22 +13,16 @@ It doesn't matter what you leave beyond the new length.
 
 public class P26_RemoveDuplicates {
 	public int removeDuplicates(int[] nums) {
-		boolean havePrevious = false;
-		int newLength = 0;
-		int prev;
-		for(int i = 0; i < nums.length; i++) {
-			if(!havePrevious) {
-				prev = nums[i];
-				havePrevious = true;
-				newLength++;
-			}
-			if(havePrevious || prev == nums[i]) {
-				continue;
-			} else {
-				nums[newLength++] = nums[i];
-				prev = nums[i];
+		if(nums.length == 0) {
+			return 0;
+		}
+		int i = 0;
+		for(int j = 1; j < nums.length; j++) {
+			if(nums[i] != nums[j]) {
+				i++;
+				nums[i] = nums[j];
 			}
 		}
-	return newLength;
+		return i + 1;
 	}
 }
