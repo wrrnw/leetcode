@@ -1,0 +1,1 @@
+console.log("Do 2 leedcode problems per day");
