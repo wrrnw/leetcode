@@ -4,3 +4,4 @@
 - [0014. Longest Common Prefix](problems/0014_Longest_Common_Prefix.md)
 - [0020. Valid Parentheses](problems/0020_Valid_Parentheses.md)
 - [0028. Implement strStr()](problems/0028_Implement_strStr().md)
+- [0035. Search Insert Position](problems/0035_Search_Insert_Position.md)
