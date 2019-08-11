@@ -1,4 +1,4 @@
-# [001. Two Sum](https://leetcode.com/problems/two-sum/)
+# [0001. Two Sum](https://leetcode.com/problems/two-sum/)
 
 **Level: Easy**
 
@@ -21,10 +21,10 @@ return [**0**, **1**].
 ### First Try
 ``` js
 /**
-* @param  {number[]}  nums
-* @param  {number}  target
-* @return  {number[]}
-*/
+ * @param  {number[]}  nums
+ * @param  {number}  target
+ * @return  {number[]}
+ */
 var  twoSum = function(nums, target) {
 	var  result = [];
 	for(var  i=0; i<nums.length-1; i++) {
