@@ -8,7 +8,7 @@ Given an array of integers, return  **indices**  of the two numbers such that th
 
 You may assume that each input would have  **_exactly_**  one solution, and you may not use the  _same_  element twice.
 
-**Example:**  
+### Example:  
 
 Given nums = [2, 7, 11, 15], target = 9,  
 
