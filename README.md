@@ -7,3 +7,4 @@
 - [0035. Search Insert Position](problems/0035_Search_Insert_Position.md)
 - [0053. Maximum Subarray](problems/0053_Maximum_Subarray.md)
 - [0058. Length of Last Word](problems/0058_Length_of_Last_Word.md)
+- [0066. Plus One](problems/0066_Plus_One.md)
