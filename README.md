@@ -9,3 +9,4 @@
 - [0058. Length of Last Word](problems/0058_Length_of_Last_Word.md)
 - [0066. Plus One](problems/0066_Plus_One.md)
 - [0067. Add Binary](problems/0067_Add_Binary.md)
+- [0069. Sqrt(x)](problems/0069_Sqrt(x).md/)
