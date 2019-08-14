@@ -11,4 +11,4 @@
 - [0067. Add Binary](problems/0067_Add_Binary.md)
 - [0069. Sqrt(x)](problems/0069_Sqrt(x).md/)
 - [0070. Climbing Stairs](problems/0070_Climbing_Stairs.md/)
-- [0088. Merge Sorted Array](problems/0088_Merged_Sorted_Array.md)
+- [0088. Merge Sorted Array](problems/0088_Merge_Sorted_Array.md)
