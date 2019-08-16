@@ -12,3 +12,4 @@
 - [0069. Sqrt(x)](problems/0069_Sqrt(x).md/)
 - [0070. Climbing Stairs](problems/0070_Climbing_Stairs.md/)
 - [0088. Merge Sorted Array](problems/0088_Merge_Sorted_Array.md)
+- [0121. Best Time to Buy and Sell Stock](problems/0121_Best_Time_to_Buy_and_Sell_Stock.md)
